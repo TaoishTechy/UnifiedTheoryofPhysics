@@ -1,6 +1,5 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e88420c2-2a98-4ac7-91bf-127fd481e0a4" /># The Correlation Continuum: Unified Framework of Physics
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce9f4c53-b321-4b05-8f69-339c2743143b" />
-
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6a6b72c0-d03f-4459-9898-62a330da2ad6" /># The Correlation Continuum: Unified Framework of Physics
+<img width="800" height="600" alt="image" src="https://i.imgur.com/gLxtITg.png" />
 
 **Prepared by Micheal Landry**  
 **Timestamp:** 2025-10-13T15:53
@@ -60,7 +59,7 @@ Where:
 - \(\lambda\): Correlation scale (\(\approx 1.7\times10^{-35}\) m)  
 
 ### Three Fundamental Parameters
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0fa9b1b-168f-4380-af38-d57442bd131d" />
+<img width="800" height="600" alt="image" src="https://i.imgur.com/oqxlM0u.png" />
 
 
 \[
@@ -80,7 +79,7 @@ Interrelation:
 \]
 
 **Observer Mortality Equation:**
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc95e801-abfa-488b-9bff-525576a6e08e" />
+<img width="1024" height="1024" alt="image" src="https://i.imgur.com/vtRy1z6.png" />
 
 
 \[
@@ -180,7 +179,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Framework Erosion and Temporality
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a1fe514-6f5f-474a-9e67-220ed21b78df" />
+<img width="1024" height="1024" alt="image" src="https://i.imgur.com/D9O9rnB.png" />
 
 \[
 \epsilon_\text{erosion} = 1.618 \times 10^{-42}, \quad \tau_\text{coherence} = \frac{\hbar}{k_B T_\text{erosion}}
@@ -201,7 +200,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Future Research Directions
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cf48c260-ed77-4adb-9675-41024b9aee6f" />
+<img width="1024" height="1024" alt="image" src="https://i.imgur.com/jmOHsZX.png" />
 
 - **Theoretical:** string theory as correlation surface dynamics, quantum gravity combinatorics  
 - **Experimental:** correlation-modified gravity tests, cosmic correlation background detection  
