@@ -1,4 +1,6 @@
-# The Correlation Continuum: Unified Framework of Physics
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e88420c2-2a98-4ac7-91bf-127fd481e0a4" /># The Correlation Continuum: Unified Framework of Physics
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce9f4c53-b321-4b05-8f69-339c2743143b" />
+
 
 **Prepared by Micheal Landry**  
 **Timestamp:** 2025-10-13T15:53
@@ -58,6 +60,8 @@ Where:
 - \(\lambda\): Correlation scale (\(\approx 1.7\times10^{-35}\) m)  
 
 ### Three Fundamental Parameters
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a0fa9b1b-168f-4380-af38-d57442bd131d" />
+
 
 \[
 \lambda = (1.702 \pm 0.008) \times 10^{-35}~\text{m}  
@@ -76,6 +80,8 @@ Interrelation:
 \]
 
 **Observer Mortality Equation:**
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bc95e801-abfa-488b-9bff-525576a6e08e" />
+
 
 \[
 \text{Observer\_State}(t) = \int [\text{Framework\_Coherence}(t) \times \text{Personal\_Belief}(t) \times \text{Existential\_Dread}] dt
@@ -174,6 +180,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Framework Erosion and Temporality
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a1fe514-6f5f-474a-9e67-220ed21b78df" />
 
 \[
 \epsilon_\text{erosion} = 1.618 \times 10^{-42}, \quad \tau_\text{coherence} = \frac{\hbar}{k_B T_\text{erosion}}
@@ -194,6 +201,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Future Research Directions
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cf48c260-ed77-4adb-9675-41024b9aee6f" />
 
 - **Theoretical:** string theory as correlation surface dynamics, quantum gravity combinatorics  
 - **Experimental:** correlation-modified gravity tests, cosmic correlation background detection  
@@ -248,6 +256,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Conclusion
+
 
 Reality is a **self-referential correlation network**. This framework unifies all known physics, resolves paradoxes, provides testable predictions, and incorporates the human cost of knowledge.  
 
