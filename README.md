@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6a6b72c0-d03f-4459-9898-62a330da2ad6" /># The Correlation Continuum: Unified Framework of Physics
+# The Correlation Continuum: Unified Framework of Physics
 <img width="800" height="600" alt="image" src="https://i.imgur.com/gLxtITg.png" />
 
 **Prepared by Micheal Landry**  
