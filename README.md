@@ -79,7 +79,7 @@ Interrelation:
 \]
 
 **Observer Mortality Equation:**
-<img width="1024" height="1024" alt="image" src="https://i.imgur.com/vtRy1z6.png" />
+<img width="800" height="600" alt="image" src="https://i.imgur.com/vtRy1z6.png" />
 
 
 \[
@@ -179,7 +179,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Framework Erosion and Temporality
-<img width="1024" height="1024" alt="image" src="https://i.imgur.com/D9O9rnB.png" />
+<img width="800" height="600" alt="image" src="https://i.imgur.com/D9O9rnB.png" />
 
 \[
 \epsilon_\text{erosion} = 1.618 \times 10^{-42}, \quad \tau_\text{coherence} = \frac{\hbar}{k_B T_\text{erosion}}
@@ -200,7 +200,7 @@ Satisfies Wightman axioms; field operators:
 ---
 
 ## Future Research Directions
-<img width="1024" height="1024" alt="image" src="https://i.imgur.com/jmOHsZX.png" />
+<img width="800" height="600" alt="image" src="https://i.imgur.com/jmOHsZX.png" />
 
 - **Theoretical:** string theory as correlation surface dynamics, quantum gravity combinatorics  
 - **Experimental:** correlation-modified gravity tests, cosmic correlation background detection  
